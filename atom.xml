@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-08-03T10:23:40.952Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>noip复习计划</title>
+    <link href="http://yoursite.com/2019/08/05/NOIP2017%E5%AE%9D%E8%97%8F/"/>
+    <id>http://yoursite.com/2019/08/05/NOIP2017宝藏/</id>
+    <published>2019-08-05T01:37:55.653Z</published>
+    <updated>2019-08-03T10:23:40.952Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="针对像我一样的蒟蒻，我动手整理了一下考前1个月noip的复习计划"><a href="#针对像我一样的蒟蒻，我动手整理了一下考前1个月noip的复习计划" class="headerlink" title="针对像我一样的蒟蒻，我动手整理了一下考前1个月noip的复习计划"></a>针对像我一样的蒟蒻，我动手整理了一下考前1个月noip的复习计划</h5><h6 id="1-基础算法（总复习时间约4天）"><a href="#1-基础算法（总复习时间约4天）" class="headerlink" title="1.基础算法（总复习时间约4天）"></a>1.基础算法（总复习时间约4天）</h6><p>第1天 贪心+模拟+枚举</p><p>第2-3天 分治+二分</p><p>第4天 倍增+构造+高精</p><h6 id="2-图论（总复习时间约6天）"><a href="#2-图论（总复习时间约6天）" class="headerlink" title="2.图论（总复习时间约6天）"></a>2.图论（总复习时间约6天）</h6><p>第1-2天 最短路(floyd,dij+heap,spfa)+差分约束</p><p>第3天 最小生成树</p><p>第4-5天 tarjan+拓扑排序</p><p>第6天 二分图匹配+隐形图的构造</p><h6 id="3-树（总复习时间约3天）"><a href="#3-树（总复习时间约3天）" class="headerlink" title="3.树（总复习时间约3天）"></a>3.树（总复习时间约3天）</h6><p>第1天 树的直径和重心，森林转二叉树，树转二叉树</p><p>第2天 lca,*树链剖分</p><p>第3天 树的遍历</p><h6 id="4-数论（总复习时间约4天）"><a href="#4-数论（总复习时间约4天）" class="headerlink" title="4.数论（总复习时间约4天）"></a>4.数论（总复习时间约4天）</h6><p>第1天 gcd，lcm，筛素数</p><p>第2天 exgcd，中国剩余定理，乘法逆元</p><p>第3天 快速幂，矩阵快速幂，*高斯消元</p><p>第4天 组合及解析数学</p><h6 id="5-数据结构（总复习时间约5天）"><a href="#5-数据结构（总复习时间约5天）" class="headerlink" title="5.数据结构（总复习时间约5天）"></a>5.数据结构（总复习时间约5天）</h6><p>第1天 链表，队列，栈</p><p>第2天 堆，st表，hash表</p><p>第3天 树状数组，线段树带lazy标记</p><p>第4天 trie树，*分块</p><h6 id="6-动态规划（总复习时间约5天）"><a href="#6-动态规划（总复习时间约5天）" class="headerlink" title="6.动态规划（总复习时间约5天）"></a>6.动态规划（总复习时间约5天）</h6><p>第1天 递推，记忆化搜索</p><p>第2天 坐标型dp，资源型dp</p><p>第3天 树形dp，区间dp</p><p>第4天 状压dp</p><p>第5天 平四，单调队列等优化</p><h6 id="7-骗分技巧（总复习事件约3天）"><a href="#7-骗分技巧（总复习事件约3天）" class="headerlink" title="7.骗分技巧（总复习事件约3天）"></a>7.骗分技巧（总复习事件约3天）</h6><p>第1天 各种卡常:快读，快输，寄存器，内联</p><p>第2天 暴力优化:搜索剪枝，A<em>，IDA</em></p><p>第3天 STL等作弊工具的的灵活使用</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;针对像我一样的蒟蒻，我动手整理了一下考前1个月noip的复习计划&quot;&gt;&lt;a href=&quot;#针对像我一样的蒟蒻，我动手整理了一下考前1个月noip的复习计划&quot; class=&quot;headerlink&quot; title=&quot;针对像我一样的蒟蒻，我动手整理了一下考前1个月noip的
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/08/05/hello-world/"/>
+    <id>http://yoursite.com/2019/08/05/hello-world/</id>
+    <published>2019-08-05T01:36:20.845Z</published>
+    <updated>2019-08-05T01:36:20.845Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
